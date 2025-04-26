@@ -1,21 +1,22 @@
 # NexScholar Student Supervisor Management System
 
-🚀 **Empowering Postgraduate Research at UTM**
+![Status](https://img.shields.io/badge/Project%20Status-Phase%201-blue?style=flat-square)
 
-The **NexScholar Student Supervisor Management System** is a modern web-based platform designed to streamline postgraduate supervision at Universiti Teknologi Malaysia (UTM). By replacing manual processes like emails, spreadsheets, and outdated systems (GSMS), NexScholar transforms the research experience for students and supervisors alike.
-
-With features like structured communication, milestone tracking, meeting scheduling, and document management — all under one roof — NexScholar helps students stay on track and supervisors manage progress with ease. Built with a focus on usability, security, and scalability, it drives UTM’s vision for digital transformation in postgraduate education.
-
----
-
-## 🔗 Key Features
-- 📩 Centralized communication between students and supervisors
-- 📈 Milestone and progress tracking
-- 📅 Automated meeting scheduling and reminders
-- ✅ Task assignment and feedback management
-- 🔒 Secure document sharing and tracking
-- 🚀 Designed for scalability, security, and a seamless user experience
+Welcome to the **NexScholar Student Supervisor Management System** project! 🚀  
+This system is developed to revolutionize postgraduate supervision at UTM by replacing inefficient manual processes with a centralized, integrated, and modern platform.  
+Our system enhances supervisor-student communication, milestone tracking, document sharing, scheduling, and feedback management — supporting UTM’s vision for digital academic excellence. 📚✨
 
 ---
 
-## 🌟 NexScholar: Simplifying Supervision, Amplifying Success.
+## 🧑‍💻 Our Team: So sad 😢
+
+| Name                    | Matric No  | Role                    |
+|--------------------------|------------|-------------------------|
+| Eleanor Ting Pik En 🎯    | A24CS0247  | Project Manager         |
+| Nureen Fatini 🎨          | A24CS0169  | System Analyst          |
+| Wong Zi Ning 💻           | A24CS0313  | UI/UX Designer          |
+| Seah Zhang Jian 🛠️        | A24CS0297  | Developer & Tester      |
+
+---
+
+> Even when we're "So sad" 😢, we code with passion and build with heart! ❤️🚀
