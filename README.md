@@ -20,3 +20,8 @@ Our system enhances supervisor-student communication, milestone tracking, docume
 ---
 
 > Even when we're "So sad" 😢, we code with passion and build with heart! ❤️🚀
+
+
+Project Pathway:
+- 📄 **[Phase 1 Completed PDF](https://github.com/Leann13t/So-SAD_Project1_SAD_20242025/blob/main/Project%201(Phase%201)%20%20Completed.pdf)** - Check out the full details of our completed Phase 1 project! 🎉
+- 🗂️ **[Kanban Board](https://github.com/users/Leann13t/projects/2)** - Follow our project progress and tasks with the Kanban board! 📊🚀
